@@ -1,2 +1,2 @@
 # MATH-441
-A learning portfolio for Math 441
+Learning Portfolio Cover Letter Math 441
